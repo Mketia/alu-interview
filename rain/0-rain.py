@@ -1,4 +1,5 @@
-dme for full description"""
+#!/usr/bin/python3
+"""Check readme for full description"""
 
 
 def rain(walls):
